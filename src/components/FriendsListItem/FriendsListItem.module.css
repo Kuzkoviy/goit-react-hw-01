@@ -1,0 +1,13 @@
+
+.status {
+    font-weight: 300;
+    font-size: 14px;
+
+    &.green {
+        color: green;
+      }
+    
+      &.red {
+        color: red;
+      }
+}

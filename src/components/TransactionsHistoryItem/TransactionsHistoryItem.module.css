@@ -1,0 +1,8 @@
+
+.item:nth-last-child(odd) {
+    background-color: lightgray;
+}
+
+.type {
+    text-transform: capitalize;
+}
